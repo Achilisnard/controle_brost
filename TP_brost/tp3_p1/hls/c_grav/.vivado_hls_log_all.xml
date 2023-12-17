@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog/>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog>
+        <logs message="WARNING: [RTGEN 206-101] Port 'c_grav/cg_on_V' has no fanin or fanout and is left dangling.&#xD;&#xA;               Please use C simulation to confirm this function argument can be read from or written to." projectName="c_grav" solutionName="solution1" date="2023-11-29T14:44:34.098+0100" type="Warning"/>
+        <logs message="WARNING: [XFORM 203-503] Cannot unroll loop 'Loop-1.1' (c_grav/c_grav.cpp:18) in function 'c_grav': cannot completely unroll a loop with a variable trip count." projectName="c_grav" solutionName="solution1" date="2023-11-29T14:44:33.378+0100" type="Warning"/>
+      </synLog>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

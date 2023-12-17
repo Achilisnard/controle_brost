@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Thu Nov 23 10:17:24 2023
+# Process ID: 3396
+# Current directory: C:/Users/achil/OneDrive/Documents/5A/brost/TP_brost/tp2_p1/tp2_p1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9036 C:\Users\achil\OneDrive\Documents\5A\brost\TP_brost\tp2_p1\tp2_p1\tp2_p1.xpr
+# Log file: C:/Users/achil/OneDrive/Documents/5A/brost/TP_brost/tp2_p1/tp2_p1/vivado.log
+# Journal file: C:/Users/achil/OneDrive/Documents/5A/brost/TP_brost/tp2_p1/tp2_p1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/achil/OneDrive/Documents/5A/brost/TP_brost/tp2_p1/tp2_p1/tp2_p1.xpr
+update_compile_order -fileset sources_1

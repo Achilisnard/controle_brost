@@ -1,0 +1,1088 @@
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] CSim file generation failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] CSim file generation failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim file generation done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim file generation done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim file generation done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-107] error deleting "csim/build": permission denied
+ERROR: [SIM 211-100] CSim file generation failed with errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim file generation done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] CSim file generation failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] CSim file generation failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] CSim file generation failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-107] error deleting "csim/build": permission denied
+ERROR: [SIM 211-100] CSim file generation failed with errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-107] error deleting "csim/build": permission denied
+ERROR: [SIM 211-100] CSim file generation failed with errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] CSim file generation failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] CSim file generation failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] CSim file generation failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] CSim file generation failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim file generation done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim file generation done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim file generation done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim file generation done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'c_grav/c_grav.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:02 ; elapsed = 00:00:36 . Memory (MB): peak = 178.785 ; gain = 111.633
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:02 ; elapsed = 00:00:36 . Memory (MB): peak = 178.785 ; gain = 111.633
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:02 ; elapsed = 00:00:37 . Memory (MB): peak = 178.785 ; gain = 111.633
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:02 ; elapsed = 00:00:37 . Memory (MB): peak = 189.148 ; gain = 121.996
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'Loop-1' (c_grav/c_grav.cpp:18) in function 'c_grav' for pipelining.
+WARNING: [XFORM 203-503] Cannot unroll loop 'Loop-1.1' (c_grav/c_grav.cpp:20) in function 'c_grav': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock from (c_grav/c_grav.cpp:29:17) to (c_grav/c_grav.cpp:20:32) in function 'c_grav'... converting 3 basic blocks.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:38 . Memory (MB): peak = 233.199 ; gain = 166.047
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-1' (c_grav/c_grav.cpp:18:19) in function 'c_grav'.
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:38 . Memory (MB): peak = 240.484 ; gain = 173.332
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'c_grav' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'c_grav' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'Loop 1'.
+WARNING: [SCHED 204-68] The II Violation in module 'c_grav' (Loop: Loop 1): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)
+   between 'load' operation ('cgy_r_load_1', c_grav/c_grav.cpp:25) on static variable 'cgy_r' and 'load' operation ('cgy_r_load', c_grav/c_grav.cpp:25) on static variable 'cgy_r'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 2, Depth = 4.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 38.365 seconds; current allocated memory: 176.309 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.196 seconds; current allocated memory: 176.779 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'c_grav' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/hsize_in' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/vsize_in' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'c_grav' to 'ap_ctrl_hs'.
+WARNING: [RTGEN 206-101] Register 'cgy_r' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'cgx_r' is power-on initialization.
+INFO: [SYN 201-210] Renamed object name 'c_grav_udiv_32ns_32ns_32_36_seq_1' to 'c_grav_udiv_32ns_bkb' due to the length limit 20
+INFO: [RTGEN 206-100] Generating core module 'c_grav_udiv_32ns_bkb': 2 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'c_grav'.
+INFO: [HLS 200-111]  Elapsed time: 0.251 seconds; current allocated memory: 177.958 MB.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were NOT satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 117.51 MHz
+INFO: [RTMG 210-282] Generating pipelined core: 'c_grav_udiv_32ns_bkb_div'
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:05 ; elapsed = 00:00:40 . Memory (MB): peak = 259.109 ; gain = 191.957
+INFO: [VHDL 208-304] Generating VHDL RTL for c_grav.
+INFO: [VLOG 209-307] Generating Verilog RTL for c_grav.
+INFO: [HLS 200-112] Total elapsed time: 40.3 seconds; peak allocated memory: 177.958 MB.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+INFO: [IMPL 213-8] Starting RTL evaluation using Vivado ...
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'c_grav/c_grav.cpp' ... 
+WARNING: [HLS 200-40] In file included from c_grav/c_grav.cpp:3:
+D:/Xillinx/Vivado/2019.2/common/technology/autopilot\hls_opencv.h:300:2: error: hls_opencv.h is not intended to be included in design source files, please include hls_opencv.h only in design testbench.
+#error hls_opencv.h is not intended to be included in design source files, please include hls_opencv.h only in design testbench.
+ ^
+1 error generated.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'c_grav/c_grav.cpp' ... 
+WARNING: [HLS 200-40] In file included from c_grav/c_grav.cpp:3:
+D:/Xillinx/Vivado/2019.2/common/technology/autopilot\hls_opencv.h:300:2: error: hls_opencv.h is not intended to be included in design source files, please include hls_opencv.h only in design testbench.
+#error hls_opencv.h is not intended to be included in design source files, please include hls_opencv.h only in design testbench.
+ ^
+1 error generated.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'c_grav/c_grav.cpp' ... 
+ERROR: [HLS 200-70] Compilation errors found: In file included from c_grav/c_grav.cpp:1:
+c_grav/c_grav.cpp:7:40: error: use of undeclared identifier 'AXI_STREAM_RGB'
+typedef hls::stream<ap_axiu<24,1,1,1>> AXI_STREAM_RGB;
+                                       ^
+c_grav/c_grav.cpp:7:54: error: type name requires a specifier or qualifier
+typedef hls::stream<ap_axiu<24,1,1,1>> AXI_STREAM_RGB;
+                                                     ^
+c_grav/c_grav.cpp:15:6: error: variable has incomplete type 'void'
+void c_grav(AXI_STREAM_RGB& s_axis_video, AXI_STREAM_RGB& m_axis_video, int hsize_in, int vsize_in) {
+     ^
+c_grav/c_grav.cpp:15:13: error: use of undeclared identifier 'AXI_STREAM_RGB'
+void c_grav(AXI_STREAM_RGB& s_axis_video, AXI_STREAM_RGB& m_axis_video, int hsize_in, int vsize_in) {
+            ^
+c_grav/c_grav.cpp:15:29: error: use of undeclared identifier 's_axis_video'
+void c_grav(AXI_STREAM_RGB& s_axis_video, AXI_STREAM_RGB& m_axis_video, int hsize_in, int vsize_in) {
+                            ^
+c_grav/c_grav.cpp:15:100: error: expected ';' after top level declarator
+void c_grav(AXI_STREAM_RGB& s_axis_video, AXI_STREAM_RGB& m_axis_video, int hsize_in, int vsize_in) {
+                                                                                                   ^
+                                                                                                   ;
+6 errors generated.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'c_grav/c_grav.cpp' ... 
+ERROR: [HLS 200-70] Compilation errors found: In file included from c_grav/c_grav.cpp:1:
+c_grav/c_grav.cpp:7:40: error: use of undeclared identifier 'AXI_STREAM_RGB'
+typedef hls::stream<ap_axiu<24,1,1,1>> AXI_STREAM_RGB;
+                                       ^
+c_grav/c_grav.cpp:7:54: error: type name requires a specifier or qualifier
+typedef hls::stream<ap_axiu<24,1,1,1>> AXI_STREAM_RGB;
+                                                     ^
+c_grav/c_grav.cpp:15:6: error: variable has incomplete type 'void'
+void c_grav(AXI_STREAM_RGB& s_axis_video, AXI_STREAM_RGB& m_axis_video, int hsize_in, int vsize_in) {
+     ^
+c_grav/c_grav.cpp:15:13: error: use of undeclared identifier 'AXI_STREAM_RGB'
+void c_grav(AXI_STREAM_RGB& s_axis_video, AXI_STREAM_RGB& m_axis_video, int hsize_in, int vsize_in) {
+            ^
+c_grav/c_grav.cpp:15:29: error: use of undeclared identifier 's_axis_video'
+void c_grav(AXI_STREAM_RGB& s_axis_video, AXI_STREAM_RGB& m_axis_video, int hsize_in, int vsize_in) {
+                            ^
+c_grav/c_grav.cpp:15:100: error: expected ';' after top level declarator
+void c_grav(AXI_STREAM_RGB& s_axis_video, AXI_STREAM_RGB& m_axis_video, int hsize_in, int vsize_in) {
+                                                                                                   ^
+                                                                                                   ;
+6 errors generated.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'c_grav/c_grav.cpp' ... 
+ERROR: [HLS 200-70] Compilation errors found: In file included from c_grav/c_grav.cpp:1:
+c_grav/c_grav.cpp:7:40: error: use of undeclared identifier 'AXI_STREAM_RGB'
+typedef hls::stream<ap_axiu<24,1,1,1>> AXI_STREAM_RGB;
+                                       ^
+c_grav/c_grav.cpp:7:54: error: type name requires a specifier or qualifier
+typedef hls::stream<ap_axiu<24,1,1,1>> AXI_STREAM_RGB;
+                                                     ^
+c_grav/c_grav.cpp:15:6: error: variable has incomplete type 'void'
+void c_grav(AXI_STREAM_RGB& s_axis_video, AXI_STREAM_RGB& m_axis_video, int hsize_in, int vsize_in) {
+     ^
+c_grav/c_grav.cpp:15:13: error: use of undeclared identifier 'AXI_STREAM_RGB'
+void c_grav(AXI_STREAM_RGB& s_axis_video, AXI_STREAM_RGB& m_axis_video, int hsize_in, int vsize_in) {
+            ^
+c_grav/c_grav.cpp:15:29: error: use of undeclared identifier 's_axis_video'
+void c_grav(AXI_STREAM_RGB& s_axis_video, AXI_STREAM_RGB& m_axis_video, int hsize_in, int vsize_in) {
+                            ^
+c_grav/c_grav.cpp:15:100: error: expected ';' after top level declarator
+void c_grav(AXI_STREAM_RGB& s_axis_video, AXI_STREAM_RGB& m_axis_video, int hsize_in, int vsize_in) {
+                                                                                                   ^
+                                                                                                   ;
+6 errors generated.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'c_grav/c_grav.cpp' ... 
+ERROR: [HLS 200-70] Compilation errors found: In file included from c_grav/c_grav.cpp:1:
+c_grav/c_grav.cpp:7:40: error: use of undeclared identifier 'AXI_STREAM'
+typedef hls::stream<ap_axiu<24,1,1,1>> AXI_STREAM;
+                                       ^
+c_grav/c_grav.cpp:7:50: error: type name requires a specifier or qualifier
+typedef hls::stream<ap_axiu<24,1,1,1>> AXI_STREAM;
+                                                 ^
+c_grav/c_grav.cpp:15:6: error: variable has incomplete type 'void'
+void c_grav(AXI_STREAM& s_axis_video, AXI_STREAM& m_axis_video, int hsize_in, int vsize_in) {
+     ^
+c_grav/c_grav.cpp:15:13: error: use of undeclared identifier 'AXI_STREAM'
+void c_grav(AXI_STREAM& s_axis_video, AXI_STREAM& m_axis_video, int hsize_in, int vsize_in) {
+            ^
+c_grav/c_grav.cpp:15:25: error: use of undeclared identifier 's_axis_video'
+void c_grav(AXI_STREAM& s_axis_video, AXI_STREAM& m_axis_video, int hsize_in, int vsize_in) {
+                        ^
+c_grav/c_grav.cpp:15:92: error: expected ';' after top level declarator
+void c_grav(AXI_STREAM& s_axis_video, AXI_STREAM& m_axis_video, int hsize_in, int vsize_in) {
+                                                                                           ^
+                                                                                           ;
+6 errors generated.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'c_grav/c_grav.cpp' ... 
+ERROR: [HLS 200-70] Compilation errors found: In file included from c_grav/c_grav.cpp:1:
+c_grav/c_grav.cpp:8:40: error: use of undeclared identifier 'AXI_STREAM'
+typedef hls::stream<ap_axiu<24,1,1,1>> AXI_STREAM;
+                                       ^
+c_grav/c_grav.cpp:8:50: error: type name requires a specifier or qualifier
+typedef hls::stream<ap_axiu<24,1,1,1>> AXI_STREAM;
+                                                 ^
+c_grav/c_grav.cpp:16:6: error: variable has incomplete type 'void'
+void c_grav(AXI_STREAM& s_axis_video, AXI_STREAM& m_axis_video, int hsize_in, int vsize_in) {
+     ^
+c_grav/c_grav.cpp:16:13: error: use of undeclared identifier 'AXI_STREAM'
+void c_grav(AXI_STREAM& s_axis_video, AXI_STREAM& m_axis_video, int hsize_in, int vsize_in) {
+            ^
+c_grav/c_grav.cpp:16:25: error: use of undeclared identifier 's_axis_video'
+void c_grav(AXI_STREAM& s_axis_video, AXI_STREAM& m_axis_video, int hsize_in, int vsize_in) {
+                        ^
+c_grav/c_grav.cpp:16:92: error: expected ';' after top level declarator
+void c_grav(AXI_STREAM& s_axis_video, AXI_STREAM& m_axis_video, int hsize_in, int vsize_in) {
+                                                                                           ^
+                                                                                           ;
+6 errors generated.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'c_grav/c_grav.cpp' ... 
+ERROR: [HLS 200-70] Compilation errors found: In file included from c_grav/c_grav.cpp:1:
+c_grav/c_grav.cpp:8:40: error: use of undeclared identifier 'AXI_STREAM'
+typedef hls::stream<ap_axiu<24,1,1,1>> AXI_STREAM;
+                                       ^
+c_grav/c_grav.cpp:8:50: error: type name requires a specifier or qualifier
+typedef hls::stream<ap_axiu<24,1,1,1>> AXI_STREAM;
+                                                 ^
+c_grav/c_grav.cpp:16:6: error: variable has incomplete type 'void'
+void c_grav(AXI_STREAM& s_axis_video, AXI_STREAM& m_axis_video, int hsize_in, int vsize_in) {
+     ^
+c_grav/c_grav.cpp:16:13: error: use of undeclared identifier 'AXI_STREAM'
+void c_grav(AXI_STREAM& s_axis_video, AXI_STREAM& m_axis_video, int hsize_in, int vsize_in) {
+            ^
+c_grav/c_grav.cpp:16:25: error: use of undeclared identifier 's_axis_video'
+void c_grav(AXI_STREAM& s_axis_video, AXI_STREAM& m_axis_video, int hsize_in, int vsize_in) {
+                        ^
+c_grav/c_grav.cpp:16:92: error: expected ';' after top level declarator
+void c_grav(AXI_STREAM& s_axis_video, AXI_STREAM& m_axis_video, int hsize_in, int vsize_in) {
+                                                                                           ^
+                                                                                           ;
+6 errors generated.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'c_grav/c_grav.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:02 ; elapsed = 00:00:20 . Memory (MB): peak = 209.070 ; gain = 116.766
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:02 ; elapsed = 00:00:20 . Memory (MB): peak = 209.070 ; gain = 116.766
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:02 ; elapsed = 00:00:21 . Memory (MB): peak = 209.070 ; gain = 116.766
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:02 ; elapsed = 00:00:22 . Memory (MB): peak = 219.211 ; gain = 126.906
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'Loop-1' (c_grav/c_grav.cpp:18) in function 'c_grav' for pipelining.
+WARNING: [XFORM 203-503] Cannot unroll loop 'Loop-1.1' (c_grav/c_grav.cpp:20) in function 'c_grav': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock from (c_grav/c_grav.cpp:29:17) to (c_grav/c_grav.cpp:20:32) in function 'c_grav'... converting 3 basic blocks.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:22 . Memory (MB): peak = 263.770 ; gain = 171.465
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-1' (c_grav/c_grav.cpp:18:19) in function 'c_grav'.
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:22 . Memory (MB): peak = 270.254 ; gain = 177.949
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'c_grav' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'c_grav' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'Loop 1'.
+WARNING: [SCHED 204-68] The II Violation in module 'c_grav' (Loop: Loop 1): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)
+   between 'load' operation ('cgy_r_load_1', c_grav/c_grav.cpp:25) on static variable 'cgy_r' and 'load' operation ('cgy_r_load', c_grav/c_grav.cpp:25) on static variable 'cgy_r'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 2, Depth = 4.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 22.519 seconds; current allocated memory: 200.538 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.187 seconds; current allocated memory: 201.039 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'c_grav' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/hsize_in' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/vsize_in' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'c_grav' to 'ap_ctrl_hs'.
+WARNING: [RTGEN 206-101] Register 'cgy_r' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'cgx_r' is power-on initialization.
+INFO: [SYN 201-210] Renamed object name 'c_grav_udiv_32ns_32ns_32_36_seq_1' to 'c_grav_udiv_32ns_bkb' due to the length limit 20
+INFO: [RTGEN 206-100] Generating core module 'c_grav_udiv_32ns_bkb': 2 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'c_grav'.
+INFO: [HLS 200-111]  Elapsed time: 0.365 seconds; current allocated memory: 202.249 MB.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were NOT satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 117.51 MHz
+INFO: [RTMG 210-282] Generating pipelined core: 'c_grav_udiv_32ns_bkb_div'
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:04 ; elapsed = 00:00:25 . Memory (MB): peak = 289.441 ; gain = 197.137
+INFO: [VHDL 208-304] Generating VHDL RTL for c_grav.
+INFO: [VLOG 209-307] Generating Verilog RTL for c_grav.
+INFO: [HLS 200-112] Total elapsed time: 24.994 seconds; peak allocated memory: 202.249 MB.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'c_grav/c_grav.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:02 ; elapsed = 00:00:19 . Memory (MB): peak = 209.504 ; gain = 117.238
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:02 ; elapsed = 00:00:19 . Memory (MB): peak = 209.504 ; gain = 117.238
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:02 ; elapsed = 00:00:20 . Memory (MB): peak = 209.504 ; gain = 117.238
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:02 ; elapsed = 00:00:20 . Memory (MB): peak = 224.961 ; gain = 132.695
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'Loop-1' (c_grav/c_grav.cpp:18) in function 'c_grav' for pipelining.
+WARNING: [XFORM 203-503] Cannot unroll loop 'Loop-1.1' (c_grav/c_grav.cpp:20) in function 'c_grav': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock from (c_grav/c_grav.cpp:29:17) to (c_grav/c_grav.cpp:20:32) in function 'c_grav'... converting 3 basic blocks.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:21 . Memory (MB): peak = 271.668 ; gain = 179.402
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-1' (c_grav/c_grav.cpp:18:19) in function 'c_grav'.
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:21 . Memory (MB): peak = 279.559 ; gain = 187.293
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'c_grav' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'c_grav' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'Loop 1'.
+WARNING: [SCHED 204-68] The II Violation in module 'c_grav' (Loop: Loop 1): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)
+   between 'load' operation ('cgy_r_load_1', c_grav/c_grav.cpp:25) on static variable 'cgy_r' and 'load' operation ('cgy_r_load', c_grav/c_grav.cpp:25) on static variable 'cgy_r'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 2, Depth = 4.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 21.259 seconds; current allocated memory: 208.788 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.17 seconds; current allocated memory: 209.289 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'c_grav' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/hsize_in' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/vsize_in' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'c_grav' to 'ap_ctrl_hs'.
+WARNING: [RTGEN 206-101] Register 'cgy_r' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'cgx_r' is power-on initialization.
+INFO: [SYN 201-210] Renamed object name 'c_grav_udiv_32ns_32ns_32_36_seq_1' to 'c_grav_udiv_32ns_bkb' due to the length limit 20
+INFO: [RTGEN 206-100] Generating core module 'c_grav_udiv_32ns_bkb': 2 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'c_grav'.
+INFO: [HLS 200-111]  Elapsed time: 0.348 seconds; current allocated memory: 210.500 MB.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were NOT satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 117.51 MHz
+INFO: [RTMG 210-282] Generating pipelined core: 'c_grav_udiv_32ns_bkb_div'
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:04 ; elapsed = 00:00:23 . Memory (MB): peak = 298.598 ; gain = 206.332
+INFO: [VHDL 208-304] Generating VHDL RTL for c_grav.
+INFO: [VLOG 209-307] Generating Verilog RTL for c_grav.
+INFO: [HLS 200-112] Total elapsed time: 23.494 seconds; peak allocated memory: 210.500 MB.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'c_grav/c_grav.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:02 ; elapsed = 00:00:18 . Memory (MB): peak = 209.836 ; gain = 117.523
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:02 ; elapsed = 00:00:18 . Memory (MB): peak = 209.836 ; gain = 117.523
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:02 ; elapsed = 00:00:19 . Memory (MB): peak = 209.836 ; gain = 117.523
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:02 ; elapsed = 00:00:19 . Memory (MB): peak = 224.570 ; gain = 132.258
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'Loop-1' (c_grav/c_grav.cpp:23) in function 'c_grav' for pipelining.
+WARNING: [XFORM 203-503] Cannot unroll loop 'Loop-1.1' (c_grav/c_grav.cpp:25) in function 'c_grav': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock from (c_grav/c_grav.cpp:34:17) to (c_grav/c_grav.cpp:25:32) in function 'c_grav'... converting 3 basic blocks.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:19 . Memory (MB): peak = 271.789 ; gain = 179.477
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-1' (c_grav/c_grav.cpp:23:19) in function 'c_grav'.
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:20 . Memory (MB): peak = 279.141 ; gain = 186.828
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'c_grav' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'c_grav' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'Loop 1'.
+WARNING: [SCHED 204-68] The II Violation in module 'c_grav' (Loop: Loop 1): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)
+   between 'load' operation ('cgy_r_load_1', c_grav/c_grav.cpp:30) on static variable 'cgy_r' and 'load' operation ('cgy_r_load', c_grav/c_grav.cpp:30) on static variable 'cgy_r'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 2, Depth = 4.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 19.744 seconds; current allocated memory: 208.788 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.254 seconds; current allocated memory: 209.289 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'c_grav' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/hsize_in' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/vsize_in' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'c_grav' to 'ap_ctrl_hs'.
+WARNING: [RTGEN 206-101] Register 'cgy_r' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'cgx_r' is power-on initialization.
+INFO: [SYN 201-210] Renamed object name 'c_grav_udiv_32ns_32ns_32_36_seq_1' to 'c_grav_udiv_32ns_bkb' due to the length limit 20
+INFO: [RTGEN 206-100] Generating core module 'c_grav_udiv_32ns_bkb': 2 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'c_grav'.
+INFO: [HLS 200-111]  Elapsed time: 0.413 seconds; current allocated memory: 210.499 MB.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were NOT satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 117.51 MHz
+INFO: [RTMG 210-282] Generating pipelined core: 'c_grav_udiv_32ns_bkb_div'
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:04 ; elapsed = 00:00:22 . Memory (MB): peak = 298.262 ; gain = 205.949
+INFO: [VHDL 208-304] Generating VHDL RTL for c_grav.
+INFO: [VLOG 209-307] Generating Verilog RTL for c_grav.
+INFO: [HLS 200-112] Total elapsed time: 22.209 seconds; peak allocated memory: 210.499 MB.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'c_grav/c_grav.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:02 ; elapsed = 00:00:18 . Memory (MB): peak = 210.266 ; gain = 117.883
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:02 ; elapsed = 00:00:18 . Memory (MB): peak = 210.266 ; gain = 117.883
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:02 ; elapsed = 00:00:19 . Memory (MB): peak = 210.266 ; gain = 117.883
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:02 ; elapsed = 00:00:19 . Memory (MB): peak = 225.160 ; gain = 132.777
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'Loop-1' (c_grav/c_grav.cpp:23) in function 'c_grav' for pipelining.
+WARNING: [XFORM 203-503] Cannot unroll loop 'Loop-1.1' (c_grav/c_grav.cpp:25) in function 'c_grav': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock from (c_grav/c_grav.cpp:37:17) to (c_grav/c_grav.cpp:25:32) in function 'c_grav'... converting 3 basic blocks.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:20 . Memory (MB): peak = 271.844 ; gain = 179.461
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-1' (c_grav/c_grav.cpp:23:19) in function 'c_grav'.
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:20 . Memory (MB): peak = 279.219 ; gain = 186.836
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'c_grav' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'c_grav' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'Loop 1'.
+WARNING: [SCHED 204-68] The II Violation in module 'c_grav' (Loop: Loop 1): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)
+   between 'load' operation ('cgy_r_load_1', c_grav/c_grav.cpp:33) on static variable 'cgy_r' and 'load' operation ('cgy_r_load', c_grav/c_grav.cpp:33) on static variable 'cgy_r'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 2, Depth = 4.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 20.042 seconds; current allocated memory: 209.260 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.181 seconds; current allocated memory: 209.760 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'c_grav' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/hsize_in' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/vsize_in' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'c_grav' to 'ap_ctrl_hs'.
+WARNING: [RTGEN 206-101] Register 'cgy_r' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'cgx_r' is power-on initialization.
+INFO: [SYN 201-210] Renamed object name 'c_grav_udiv_32ns_32ns_32_36_seq_1' to 'c_grav_udiv_32ns_bkb' due to the length limit 20
+INFO: [RTGEN 206-100] Generating core module 'c_grav_udiv_32ns_bkb': 2 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'c_grav'.
+INFO: [HLS 200-111]  Elapsed time: 0.363 seconds; current allocated memory: 210.970 MB.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were NOT satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 117.51 MHz
+INFO: [RTMG 210-282] Generating pipelined core: 'c_grav_udiv_32ns_bkb_div'
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:04 ; elapsed = 00:00:22 . Memory (MB): peak = 299.008 ; gain = 206.625
+INFO: [VHDL 208-304] Generating VHDL RTL for c_grav.
+INFO: [VLOG 209-307] Generating Verilog RTL for c_grav.
+INFO: [HLS 200-112] Total elapsed time: 22.398 seconds; peak allocated memory: 210.970 MB.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'c_grav/c_grav.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:02 ; elapsed = 00:00:18 . Memory (MB): peak = 209.922 ; gain = 117.363
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:02 ; elapsed = 00:00:18 . Memory (MB): peak = 209.922 ; gain = 117.363
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:02 ; elapsed = 00:00:19 . Memory (MB): peak = 209.922 ; gain = 117.363
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:02 ; elapsed = 00:00:19 . Memory (MB): peak = 223.293 ; gain = 130.734
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'Loop-1' (c_grav/c_grav.cpp:52) in function 'c_grav' for pipelining.
+WARNING: [XFORM 203-503] Cannot unroll loop 'Loop-1.1' (c_grav/c_grav.cpp:54) in function 'c_grav': cannot completely unroll a loop with a variable trip count.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:19 . Memory (MB): peak = 269.844 ; gain = 177.285
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-1' (c_grav/c_grav.cpp:52:19) in function 'c_grav'.
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:20 . Memory (MB): peak = 277.949 ; gain = 185.391
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'c_grav' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'c_grav' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'Loop 1'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 3.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 19.752 seconds; current allocated memory: 206.562 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.107 seconds; current allocated memory: 206.759 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'c_grav' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/hsize_in' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/vsize_in' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'c_grav' to 'ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'c_grav'.
+INFO: [HLS 200-111]  Elapsed time: 0.233 seconds; current allocated memory: 207.319 MB.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 117.51 MHz
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:04 ; elapsed = 00:00:21 . Memory (MB): peak = 292.977 ; gain = 200.418
+INFO: [VHDL 208-304] Generating VHDL RTL for c_grav.
+INFO: [VLOG 209-307] Generating Verilog RTL for c_grav.
+INFO: [HLS 200-112] Total elapsed time: 21.464 seconds; peak allocated memory: 207.319 MB.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'c_grav/c_grav.cpp' ... 
+ERROR: [HLS 200-70] Compilation errors found: In file included from c_grav/c_grav.cpp:1:
+c_grav/c_grav.cpp:6:43: error: use of undeclared identifier 'AXI_STREAM_RGB'
+typedef hls::stream<ap_axiu<24, 1, 1, 1>> AXI_STREAM_RGB;
+                                          ^
+c_grav/c_grav.cpp:6:57: error: type name requires a specifier or qualifier
+typedef hls::stream<ap_axiu<24, 1, 1, 1>> AXI_STREAM_RGB;
+                                                        ^
+c_grav/c_grav.cpp:14:6: error: variable has incomplete type 'void'
+void c_grav(AXI_STREAM_RGB& s_axis_video, AXI_STREAM_RGB& m_axis_video, int hsize_in, int vsize_in) {
+     ^
+c_grav/c_grav.cpp:14:13: error: use of undeclared identifier 'AXI_STREAM_RGB'
+void c_grav(AXI_STREAM_RGB& s_axis_video, AXI_STREAM_RGB& m_axis_video, int hsize_in, int vsize_in) {
+            ^
+c_grav/c_grav.cpp:14:29: error: use of undeclared identifier 's_axis_video'
+void c_grav(AXI_STREAM_RGB& s_axis_video, AXI_STREAM_RGB& m_axis_video, int hsize_in, int vsize_in) {
+                            ^
+c_grav/c_grav.cpp:14:100: error: expected ';' after top level declarator
+void c_grav(AXI_STREAM_RGB& s_axis_video, AXI_STREAM_RGB& m_axis_video, int hsize_in, int vsize_in) {
+                                                                                                   ^
+                                                                                                   ;
+6 errors generated.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'c_grav/c_grav.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:02 ; elapsed = 00:00:29 . Memory (MB): peak = 209.223 ; gain = 119.602
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:02 ; elapsed = 00:00:29 . Memory (MB): peak = 209.223 ; gain = 119.602
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:02 ; elapsed = 00:00:31 . Memory (MB): peak = 209.223 ; gain = 119.602
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:03 ; elapsed = 00:00:32 . Memory (MB): peak = 224.348 ; gain = 134.727
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'Loop-1' (c_grav/c_grav.cpp:24) in function 'c_grav' for pipelining.
+WARNING: [XFORM 203-503] Cannot unroll loop 'Loop-1.1' (c_grav/c_grav.cpp:26) in function 'c_grav': cannot completely unroll a loop with a variable trip count.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock from (c_grav/c_grav.cpp:40:13) to (c_grav/c_grav.cpp:26:32) in function 'c_grav'... converting 3 basic blocks.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:33 . Memory (MB): peak = 270.871 ; gain = 181.250
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-1' (c_grav/c_grav.cpp:24:19) in function 'c_grav'.
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:33 . Memory (MB): peak = 278.520 ; gain = 188.898
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'c_grav' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'c_grav' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'Loop 1'.
+WARNING: [SCHED 204-68] The II Violation in module 'c_grav' (Loop: Loop 1): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)
+   between 'load' operation ('cgy_r_load_1', c_grav/c_grav.cpp:34) on static variable 'cgy_r' and 'load' operation ('cgy_r_load', c_grav/c_grav.cpp:34) on static variable 'cgy_r'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 2, Depth = 4.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 33.707 seconds; current allocated memory: 207.982 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 1.019 seconds; current allocated memory: 208.537 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'c_grav' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/s_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/m_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/hsize_in' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'c_grav/vsize_in' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'c_grav' to 'ap_ctrl_hs'.
+WARNING: [RTGEN 206-101] Register 'cgy_r' is power-on initialization.
+WARNING: [RTGEN 206-101] Register 'cgx_r' is power-on initialization.
+INFO: [SYN 201-210] Renamed object name 'c_grav_udiv_32ns_32ns_32_36_seq_1' to 'c_grav_udiv_32ns_bkb' due to the length limit 20
+INFO: [RTGEN 206-100] Generating core module 'c_grav_udiv_32ns_bkb': 2 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'c_grav'.
+INFO: [HLS 200-111]  Elapsed time: 2.177 seconds; current allocated memory: 209.884 MB.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were NOT satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 117.51 MHz
+INFO: [RTMG 210-282] Generating pipelined core: 'c_grav_udiv_32ns_bkb_div'
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:05 ; elapsed = 00:00:44 . Memory (MB): peak = 297.082 ; gain = 207.461
+INFO: [VHDL 208-304] Generating VHDL RTL for c_grav.
+INFO: [VLOG 209-307] Generating Verilog RTL for c_grav.
+INFO: [HLS 200-112] Total elapsed time: 44.056 seconds; peak allocated memory: 209.884 MB.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'c_grav/c_grav.cpp' ... 
+ERROR: [HLS 200-70] Compilation errors found: In file included from c_grav/c_grav.cpp:1:
+c_grav/c_grav.cpp:39:19: error: assigning to 'int *' from incompatible type 'int'; take the address with &
+             x_out=i;
+                  ^~
+                   &
+c_grav/c_grav.cpp:40:19: error: assigning to 'int *' from incompatible type 'int'; take the address with &
+             y_out=j;
+                  ^~
+                   &
+2 errors generated.

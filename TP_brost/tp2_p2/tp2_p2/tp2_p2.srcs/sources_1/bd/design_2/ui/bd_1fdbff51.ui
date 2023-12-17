@@ -1,0 +1,86 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.926756",
+   "Default View_TopLeft":"465,-28",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0.21  2019-05-29 bk=1.5064 VDI=41 GEI=36 GUI=JA:9.0 non-TLS
+#  -string -flagsOSRD
+preplace port DDR -pg 1 -lvl 9 -x 2740 -y 160 -defaultsOSRD
+preplace port FIXED_IO -pg 1 -lvl 9 -x 2740 -y 190 -defaultsOSRD
+preplace port clk100_zed -pg 1 -lvl 0 -x 0 -y 920 -defaultsOSRD
+preplace port vga_hsync -pg 1 -lvl 9 -x 2740 -y 550 -defaultsOSRD
+preplace port vga_vsync -pg 1 -lvl 9 -x 2740 -y 640 -defaultsOSRD
+preplace port vid_hsync -pg 1 -lvl 9 -x 2740 -y 580 -defaultsOSRD
+preplace port vid_vsync -pg 1 -lvl 9 -x 2740 -y 610 -defaultsOSRD
+preplace port vid_clk -pg 1 -lvl 9 -x 2740 -y 810 -defaultsOSRD
+preplace port vid_active_video -pg 1 -lvl 9 -x 2740 -y 670 -defaultsOSRD
+preplace port btn -pg 1 -lvl 0 -x 0 -y 800 -defaultsOSRD
+preplace port siod -pg 1 -lvl 9 -x 2740 -y 700 -defaultsOSRD
+preplace port sioc -pg 1 -lvl 9 -x 2740 -y 730 -defaultsOSRD
+preplace port btnl -pg 1 -lvl 0 -x 0 -y 20 -defaultsOSRD
+preplace port left_button_0 -pg 1 -lvl 0 -x 0 -y 60 -defaultsOSRD
+preplace port right_button_0 -pg 1 -lvl 0 -x 0 -y 90 -defaultsOSRD
+preplace port up_button_0 -pg 1 -lvl 0 -x 0 -y 120 -defaultsOSRD
+preplace port down_button_0 -pg 1 -lvl 0 -x 0 -y 150 -defaultsOSRD
+preplace portBus vga_red -pg 1 -lvl 9 -x 2740 -y 520 -defaultsOSRD
+preplace portBus vga_green -pg 1 -lvl 9 -x 2740 -y 490 -defaultsOSRD
+preplace portBus vga_blue -pg 1 -lvl 9 -x 2740 -y 460 -defaultsOSRD
+preplace portBus vid_data -pg 1 -lvl 9 -x 2740 -y 760 -defaultsOSRD
+preplace inst clk_wiz_0 -pg 1 -lvl 2 -x 270 -y 910 -defaultsOSRD
+preplace inst xlconstant_0 -pg 1 -lvl 1 -x 100 -y 860 -defaultsOSRD
+preplace inst video_ctrl -pg 1 -lvl 8 -x 2470 -y 690 -defaultsOSRD
+preplace inst xlconstant_2 -pg 1 -lvl 2 -x 270 -y 620 -defaultsOSRD
+preplace inst axi_bram_ctrl_0 -pg 1 -lvl 5 -x 1270 -y 300 -defaultsOSRD
+preplace inst axi_bram_ctrl_0_bram -pg 1 -lvl 6 -x 1670 -y 300 -defaultsOSRD
+preplace inst smartconnect_0 -pg 1 -lvl 4 -x 900 -y 500 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 8 -x 2470 -y 240 -defaultsOSRD
+preplace inst im_load_mm_0 -pg 1 -lvl 3 -x 560 -y 620 -defaultsOSRD
+preplace inst switch_value_0 -pg 1 -lvl 5 -x 1270 -y 120 -defaultsOSRD
+preplace inst incust_bar_0 -pg 1 -lvl 7 -x 2050 -y 650 -defaultsOSRD
+preplace inst incrust_0 -pg 1 -lvl 5 -x 1270 -y 660 -defaultsOSRD
+preplace inst incrust_1 -pg 1 -lvl 6 -x 1670 -y 670 -defaultsOSRD
+preplace netloc clk_in1_0_1 1 0 2 NJ 920 NJ
+preplace netloc xlconstant_0_dout 1 1 1 180J 860n
+preplace netloc clk_wiz_0_clk_25 1 2 7 380J 790 NJ 790 NJ 790 NJ 790 NJ 790 2240 810 NJ
+preplace netloc v_tc_0_vsync_out 1 8 1 2720 610n
+preplace netloc xlslice_1_Dout 1 8 1 2700 460n
+preplace netloc v_tc_0_hsync_out 1 8 1 2710 550n
+preplace netloc clk_wiz_0_clk_100 1 2 6 360 740 750 740 1060 510 1470J 520 1860 520 2250
+preplace netloc video_ctrl_dout 1 2 7 380 720 760 640 1070 520 1450J 550 1870 540 NJ 540 2690
+preplace netloc video_ctrl_vid_active_video 1 8 1 2710J 670n
+preplace netloc i_0_1 1 0 8 NJ 800 NJ 800 NJ 800 NJ 800 NJ 800 1490J 530 NJ 530 2220J
+preplace netloc clk_wiz_0_clk_50 1 2 6 NJ 900 NJ 900 NJ 900 1480J 510 NJ 510 2230
+preplace netloc Net 1 8 1 NJ 700
+preplace netloc video_ctrl_sioc 1 8 1 2710J 720n
+preplace netloc video_ctrl_vid_data 1 8 1 2710J 740n
+preplace netloc xlconstant_2_dout 1 2 5 370 730 NJ 730 1080 530 1460J 560 1840J
+preplace netloc left_button_0_1 1 0 5 20J 80 NJ 80 NJ 80 NJ 80 NJ
+preplace netloc right_button_0_1 1 0 5 NJ 90 NJ 90 NJ 90 NJ 90 1070J
+preplace netloc up_button_0_1 1 0 5 NJ 120 NJ 120 NJ 120 NJ 120 NJ
+preplace netloc down_button_0_1 1 0 5 NJ 150 NJ 150 NJ 150 NJ 150 1030J
+preplace netloc smartconnect_0_M00_AXI 1 4 1 1050 280n
+preplace netloc processing_system7_0_DDR 1 8 1 NJ 160
+preplace netloc axi_bram_ctrl_0_BRAM_PORTB 1 5 1 N 310
+preplace netloc im_load_mm_0_m_axi_gmem 1 3 1 730 490n
+preplace netloc axi_bram_ctrl_0_BRAM_PORTA 1 5 1 N 290
+preplace netloc im_load_mm_0_m_axis_video 1 3 2 NJ 630 1030
+preplace netloc processing_system7_0_M_AXI_GP0 1 3 6 730 380 NJ 380 NJ 380 NJ 380 NJ 380 2700
+preplace netloc smartconnect_0_M02_AXI 1 4 1 1050 480n
+preplace netloc smartconnect_0_M03_AXI 1 2 3 370 520 740J 620 1030
+preplace netloc smartconnect_0_M01_AXI 1 4 4 NJ 460 1490J 230 NJ 230 N
+preplace netloc processing_system7_0_FIXED_IO 1 8 1 2700J 180n
+preplace netloc smartconnect_0_M05_AXI 1 4 3 NJ 540 NJ 540 1850
+preplace netloc smartconnect_0_M04_AXI 1 4 1 1040 60n
+preplace netloc incust_bar_0_m_axis_video 1 7 1 N 650
+preplace netloc incrust_1_m_axis_video 1 6 1 1880J 660n
+preplace netloc incrust_0_m_axis_video 1 5 1 1440 660n
+preplace netloc smartconnect_0_M06_AXI 1 4 2 1090J 550 1440
+levelinfo -pg 1 0 100 270 560 900 1270 1670 2050 2470 2740
+pagesize -pg 1 -db -bbox -sgen -150 0 2900 1010
+"
+}
+{
+   "da_axi4_cnt":"3",
+   "da_bram_cntlr_cnt":"2",
+   "da_ps7_cnt":"3"
+}

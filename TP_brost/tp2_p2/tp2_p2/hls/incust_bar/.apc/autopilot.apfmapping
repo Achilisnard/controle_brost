@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="incrust_bar.cpp" path="C:\Users\achil\OneDrive\Documents\5A\brost\TP_brost\tp2_p2\tp2_p2\hls\incust_bar\incrust_bar.cpp"/>
+    <originFiles name="bar.h" path="C:\Users\achil\OneDrive\Documents\5A\brost\TP_brost\tp2_p2\tp2_p2\hls\incust_bar\bar.h"/>
+  </source>
+  <testbench/>
+</autopilotfilemapping:AutoPilotFileMapping>

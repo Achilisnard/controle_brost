@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Messages>
+	<Message severity="INFO" prefix="[SCHED 204-61]" key="SCHED_PIPELINING_STATUS_631" tag="SCHEDULE" content="Option &apos;relax_ii_for_timing&apos; is enabled, will increase II to preserve clock frequency constraints."/>
+	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1312" tag="" content="Analyzing design file &apos;c_grav/c_grav.cpp&apos; ..."/>
+	<Message severity="ERROR" prefix="[HLS 200-70]" key="HLS_70_1454" tag="" content="Compilation errors found: In file included from c_grav/c_grav.cpp:1:
+c_grav/c_grav.cpp:39:19: error: assigning to &apos;int *&apos; from incompatible type &apos;int&apos;; take the address with &amp;
+             x_out=i;
+                  ^~
+                   &amp;
+c_grav/c_grav.cpp:40:19: error: assigning to &apos;int *&apos; from incompatible type &apos;int&apos;; take the address with &amp;
+             y_out=j;
+                  ^~
+                   &amp;
+2 errors generated."/>
+</Messages>

@@ -1,0 +1,248 @@
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'incust_bar/incrust_bar.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:02 ; elapsed = 00:00:29 . Memory (MB): peak = 209.547 ; gain = 119.133
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:02 ; elapsed = 00:00:29 . Memory (MB): peak = 209.547 ; gain = 119.133
+INFO: [HLS 200-10] Starting code transformations ...
+ERROR: [SYNCHK 200-79] Cannot find the top function 'incust_bar' in the design. Possible causes are: (1) the top function name is misspelled; (2) the top function is nonexistent or declared as static.
+ERROR: [HLS 200-70] Synthesizability check failed.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'incust_bar/incrust_bar.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:02 ; elapsed = 00:00:23 . Memory (MB): peak = 210.445 ; gain = 118.117
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:02 ; elapsed = 00:00:23 . Memory (MB): peak = 210.445 ; gain = 118.117
+INFO: [HLS 200-10] Starting code transformations ...
+ERROR: [SYNCHK 200-79] Cannot find the top function 'incust_bar' in the design. Possible causes are: (1) the top function name is misspelled; (2) the top function is nonexistent or declared as static.
+ERROR: [HLS 200-70] Synthesizability check failed.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'incust_bar/incrust_bar.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:02 ; elapsed = 00:00:22 . Memory (MB): peak = 209.734 ; gain = 117.418
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:02 ; elapsed = 00:00:22 . Memory (MB): peak = 209.734 ; gain = 117.418
+INFO: [HLS 200-10] Starting code transformations ...
+ERROR: [SYNCHK 200-79] Cannot find the top function 'incust_bar' in the design. Possible causes are: (1) the top function name is misspelled; (2) the top function is nonexistent or declared as static.
+ERROR: [HLS 200-70] Synthesizability check failed.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'incust_bar/incrust_bar.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:02 ; elapsed = 00:00:22 . Memory (MB): peak = 209.297 ; gain = 116.953
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:02 ; elapsed = 00:00:22 . Memory (MB): peak = 209.297 ; gain = 116.953
+INFO: [HLS 200-10] Starting code transformations ...
+ERROR: [SYNCHK 200-79] Cannot find the top function 'incust_bar' in the design. Possible causes are: (1) the top function name is misspelled; (2) the top function is nonexistent or declared as static.
+ERROR: [HLS 200-70] Synthesizability check failed.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'incust_bar/incrust_bar.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:02 ; elapsed = 00:00:22 . Memory (MB): peak = 209.406 ; gain = 117.125
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:02 ; elapsed = 00:00:22 . Memory (MB): peak = 209.406 ; gain = 117.125
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:02 ; elapsed = 00:00:23 . Memory (MB): peak = 209.406 ; gain = 117.125
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:02 ; elapsed = 00:00:24 . Memory (MB): peak = 219.445 ; gain = 127.164
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:02 ; elapsed = 00:00:24 . Memory (MB): peak = 262.801 ; gain = 170.520
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:24 . Memory (MB): peak = 270.379 ; gain = 178.098
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'incust_bar' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'incust_bar' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 24.582 seconds; current allocated memory: 199.285 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.106 seconds; current allocated memory: 199.458 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'incust_bar' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/start_x' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/start_y' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'incust_bar' to 'ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'start_x' and 'start_y' to AXI-Lite port AXILiteS.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'incust_bar'.
+INFO: [HLS 200-111]  Elapsed time: 0.289 seconds; current allocated memory: 199.973 MB.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 548.55 MHz
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:04 ; elapsed = 00:00:27 . Memory (MB): peak = 284.691 ; gain = 192.410
+INFO: [VHDL 208-304] Generating VHDL RTL for incust_bar.
+INFO: [VLOG 209-307] Generating Verilog RTL for incust_bar.
+INFO: [HLS 200-112] Total elapsed time: 26.778 seconds; peak allocated memory: 199.973 MB.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'incust_bar/incrust_bar.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:02 ; elapsed = 00:00:23 . Memory (MB): peak = 209.113 ; gain = 119.855
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:02 ; elapsed = 00:00:23 . Memory (MB): peak = 209.113 ; gain = 119.855
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:02 ; elapsed = 00:00:24 . Memory (MB): peak = 209.113 ; gain = 119.855
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:02 ; elapsed = 00:00:24 . Memory (MB): peak = 218.734 ; gain = 129.477
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:25 . Memory (MB): peak = 262.586 ; gain = 173.328
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:25 . Memory (MB): peak = 269.688 ; gain = 180.430
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'incust_bar' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'incust_bar' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 25.293 seconds; current allocated memory: 199.215 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.135 seconds; current allocated memory: 199.403 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'incust_bar' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/start_x' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/start_y' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'incust_bar' to 'ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'start_x' and 'start_y' to AXI-Lite port AXILiteS.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'incust_bar'.
+INFO: [HLS 200-111]  Elapsed time: 0.266 seconds; current allocated memory: 199.965 MB.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 548.55 MHz
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:04 ; elapsed = 00:00:27 . Memory (MB): peak = 284.316 ; gain = 195.059
+INFO: [VHDL 208-304] Generating VHDL RTL for incust_bar.
+INFO: [VLOG 209-307] Generating Verilog RTL for incust_bar.
+INFO: [HLS 200-112] Total elapsed time: 27.366 seconds; peak allocated memory: 199.965 MB.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'incust_bar/incrust_bar.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:02 ; elapsed = 00:00:26 . Memory (MB): peak = 209.461 ; gain = 121.188
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:02 ; elapsed = 00:00:26 . Memory (MB): peak = 209.461 ; gain = 121.188
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:02 ; elapsed = 00:00:27 . Memory (MB): peak = 209.461 ; gain = 121.188
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:03 ; elapsed = 00:00:28 . Memory (MB): peak = 222.219 ; gain = 133.945
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock from (incust_bar/incrust_bar.cpp:23:4) to (incust_bar/incrust_bar.cpp:21:28) in function 'incust_bar'... converting 3 basic blocks.
+INFO: [XFORM 203-11] Balancing expressions in function 'incust_bar' (incust_bar/incrust_bar.cpp:10)...3 expression(s) balanced.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:28 . Memory (MB): peak = 265.621 ; gain = 177.348
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:03 ; elapsed = 00:00:28 . Memory (MB): peak = 271.883 ; gain = 183.609
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'incust_bar' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'incust_bar' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 28.599 seconds; current allocated memory: 201.436 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.13 seconds; current allocated memory: 201.744 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'incust_bar' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/s_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/m_axis_video_V_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/start_x' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'incust_bar/start_y' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'incust_bar' to 'ap_ctrl_hs'.
+INFO: [SYN 201-210] Renamed object name 'incust_bar_im_incrust_V' to 'incust_bar_im_incbkb' due to the length limit 20
+INFO: [RTGEN 206-100] Bundling port 'start_x' and 'start_y' to AXI-Lite port AXILiteS.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'incust_bar'.
+INFO: [HLS 200-111]  Elapsed time: 0.449 seconds; current allocated memory: 202.457 MB.
+INFO: [HLS 200-790] **** Loop Constraint Status: All loop constraints were satisfied.
+INFO: [HLS 200-789] **** Estimated Fmax: 168.98 MHz
+INFO: [RTMG 210-279] Implementing memory 'incust_bar_im_incbkb_rom' using auto ROMs.
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:05 ; elapsed = 00:00:32 . Memory (MB): peak = 289.008 ; gain = 200.734
+INFO: [VHDL 208-304] Generating VHDL RTL for incust_bar.
+INFO: [VLOG 209-307] Generating Verilog RTL for incust_bar.
+INFO: [HLS 200-112] Total elapsed time: 31.693 seconds; peak allocated memory: 202.457 MB.
+==============================================================
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.2 (64-bit)
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020-clg484-1'
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.

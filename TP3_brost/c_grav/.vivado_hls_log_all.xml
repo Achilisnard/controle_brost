@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog>
+        <logs message="ERROR: [HLS 200-70] Compilation errors found: In file included from c_grav/c_grav.cpp:1:&#xD;&#xA;c_grav/c_grav.cpp:39:19: error: assigning to 'int *' from incompatible type 'int'; take the address with &amp;&#xD;&#xA;             x_out=i;&#xD;&#xA;                  ^~&#xD;&#xA;                   &amp;&#xD;&#xA;c_grav/c_grav.cpp:40:19: error: assigning to 'int *' from incompatible type 'int'; take the address with &amp;&#xD;&#xA;             y_out=j;&#xD;&#xA;                  ^~&#xD;&#xA;                   &amp;&#xD;&#xA;2 errors generated.&#xD;&#xA;Failed during preprocessing.&#xD;&#xA;    while executing&#xD;&#xA;&quot;source C:/Users/achil/OneDrive/Documents/5A/brost/TP3_brost/c_grav/solution1/csynth.tcl&quot;&#xD;&#xA;    invoked from within&#xD;&#xA;&quot;hls::main C:/Users/achil/OneDrive/Documents/5A/brost/TP3_brost/c_grav/solution1/csynth.tcl&quot;&#xD;&#xA;    (&quot;uplevel&quot; body line 1)&#xD;&#xA;    invoked from within&#xD;&#xA;&quot;uplevel 1 hls::main {*}$args&quot;&#xD;&#xA;    (procedure &quot;hls_proc&quot; line 5)&#xD;&#xA;    invoked from within&#xD;&#xA;&quot;hls_proc $argv&quot;&#xD;&#xA;" projectName="c_grav" solutionName="solution1" date="2023-12-08T14:38:17.330+0100"/>
+      </synLog>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog/>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

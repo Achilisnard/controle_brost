@@ -1,0 +1,51 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../c_grav_tb.cpp in debug mode
+   Compiling ../../../c_grav.cpp in debug mode
+   Generating csim.exe
+Makefile.rules:401: recipe for target 'csim.exe' failed
+In file included from D:/Xillinx/Vivado/2019.2/include/floating_point_v7_0_bitacc_cmodel.h:143:0,
+                 from D:/Xillinx/Vivado/2019.2/include/hls_fpo.h:186,
+                 from D:/Xillinx/Vivado/2019.2/include/hls_half.h:44,
+                 from D:/Xillinx/Vivado/2019.2/include/etc/ap_private.h:90,
+                 from D:/Xillinx/Vivado/2019.2/include/ap_common.h:641,
+                 from D:/Xillinx/Vivado/2019.2/include/ap_int.h:54,
+                 from ../../../c_grav_tb.cpp:1:
+D:/Xillinx/Vivado/2019.2/include/gmp.h:62:0: warning: "__GMP_LIBGMP_DLL" redefined
+ #define __GMP_LIBGMP_DLL  0
+ 
+In file included from D:/Xillinx/Vivado/2019.2/include/hls_fpo.h:186:0,
+                 from D:/Xillinx/Vivado/2019.2/include/hls_half.h:44,
+                 from D:/Xillinx/Vivado/2019.2/include/etc/ap_private.h:90,
+                 from D:/Xillinx/Vivado/2019.2/include/ap_common.h:641,
+                 from D:/Xillinx/Vivado/2019.2/include/ap_int.h:54,
+                 from ../../../c_grav_tb.cpp:1:
+D:/Xillinx/Vivado/2019.2/include/floating_point_v7_0_bitacc_cmodel.h:135:0: note: this is the location of the previous definition
+ #define __GMP_LIBGMP_DLL 1
+ 
+In file included from D:/Xillinx/Vivado/2019.2/include/floating_point_v7_0_bitacc_cmodel.h:143:0,
+                 from D:/Xillinx/Vivado/2019.2/include/hls_fpo.h:186,
+                 from D:/Xillinx/Vivado/2019.2/include/hls_half.h:44,
+                 from D:/Xillinx/Vivado/2019.2/include/etc/ap_private.h:90,
+                 from D:/Xillinx/Vivado/2019.2/include/ap_common.h:641,
+                 from D:/Xillinx/Vivado/2019.2/include/ap_int.h:54,
+                 from ../../../c_grav.cpp:1:
+D:/Xillinx/Vivado/2019.2/include/gmp.h:62:0: warning: "__GMP_LIBGMP_DLL" redefined
+ #define __GMP_LIBGMP_DLL  0
+ 
+In file included from D:/Xillinx/Vivado/2019.2/include/hls_fpo.h:186:0,
+                 from D:/Xillinx/Vivado/2019.2/include/hls_half.h:44,
+                 from D:/Xillinx/Vivado/2019.2/include/etc/ap_private.h:90,
+                 from D:/Xillinx/Vivado/2019.2/include/ap_common.h:641,
+                 from D:/Xillinx/Vivado/2019.2/include/ap_int.h:54,
+                 from ../../../c_grav.cpp:1:
+D:/Xillinx/Vivado/2019.2/include/floating_point_v7_0_bitacc_cmodel.h:135:0: note: this is the location of the previous definition
+ #define __GMP_LIBGMP_DLL 1
+ 
+obj/c_grav_tb.o: In function `main':
+C:\Users\achil\OneDrive\Documents\5A\brost\TP_brost\tp3_p1\hls\c_grav\solution1\csim\build/../../../c_grav_tb.cpp:23: undefined reference to `c_grav(hls::stream<ap_axiu<8, 1, 1, 1> >&, hls::stream<ap_axiu<8, 1, 1, 1> >&, int, int)'
+C:\Users\achil\OneDrive\Documents\5A\brost\TP_brost\tp3_p1\hls\c_grav\solution1\csim\build/../../../c_grav_tb.cpp:25: undefined reference to `c_grav(hls::stream<ap_axiu<8, 1, 1, 1> >&, hls::stream<ap_axiu<8, 1, 1, 1> >&, int, int)'
+collect2.exe: error: ld returned 1 exit status
+make: *** [csim.exe] Error 1
+ERR: [SIM 100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 3] *************** CSIM finish ***************
